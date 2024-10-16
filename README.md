@@ -15,7 +15,7 @@ A simple Android banking application featuring components that can be used in a 
 <img src="screenshots/img_recent_activity_detail.png" width="200">
 
 ### Transfer Screen
-<img src="screenshots/img_card.png" width="200">
+<img src="screenshots/img_transfer.png" width="200">
 
 ### Card Screen
 <img src="screenshots/img_card.png" width="200">
